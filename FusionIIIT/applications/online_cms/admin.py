@@ -29,3 +29,5 @@ admin.site.register(QuizResult, QuizResultAdmin)
 admin.site.register(Forum)
 
 admin.site.register(ForumReply)
+
+
